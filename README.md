@@ -1,4 +1,4 @@
-# 🚀 Tecnoven App - Propuesta de Aplicación Móvil (Front-End)
+# 🚀 Tecnoven - App Concepto
 
 Este proyecto es un **prototipo Front-End funcional** creado desde cero para proponer la primera aplicación móvil oficial del proveedor de internet **Tecnoven**. 
 
@@ -31,4 +31,4 @@ La interfaz integra las herramientas esenciales que todo cliente necesita tener 
    ```bash
    git clone [https://github.com/SkayJ/Tecnoven-App-Concepto.git](https://github.com/SkayJ/Tecnoven-App-Concepto.git)
 
-   © 2026 Skay J | All Rights Reserved.
+© 2026 Skay J | All Rights Reserved.
